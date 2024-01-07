@@ -34,5 +34,5 @@ Split the dataset into training and testing sets, construct a neural network usi
 
 ## Predictions
 
-Utilize the trained model to make predictions on new images and determine whether they contain a dog
+Utilize the trained model to make predictions on new images and determine whether they are dogs or cats.
 
