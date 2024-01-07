@@ -1,1 +1,1 @@
-# Dog-vs-Cat-Classification---Transfer-Learning
+# Dog vs Cat Classification - Transfer Learning
