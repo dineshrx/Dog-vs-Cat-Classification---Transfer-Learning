@@ -1,6 +1,6 @@
 # Dog vs Cat Classification - Transfer Learning
 
-This project aims to develop an image classifier using TensorFlow to distinguish between images of dogs and cats. The model is built using transfer learning on the Kaggle dataset using Google Colab, specifically the "Dogs vs Cats" competition dataset.
+This project aims to develop an image classifier using TensorFlow to distinguish between images of dogs and cats. The model is built using transfer learning on the Kaggle dataset using Google Colab, specifically the "Dogs vs Cats" dataset.
 
 ## Introduction
 Image classification is a fundamental task in computer vision, and the ability to differentiate between images of dogs and cats is a common problem statement. This project utilizes the TensorFlow framework, leveraging transfer learning techniques to build a robust model capable of accurately classifying these animal images.
