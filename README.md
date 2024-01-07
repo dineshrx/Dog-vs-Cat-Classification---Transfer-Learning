@@ -5,6 +5,9 @@ This project aims to develop an image classifier using TensorFlow to distinguish
 ## Introduction
 Image classification is a fundamental task in computer vision, and the ability to differentiate between images of dogs and cats is a common problem statement. This project utilizes the TensorFlow framework, leveraging transfer learning techniques to build a robust model capable of accurately classifying these animal images.
 
+## Output
+![op1](https://github.com/dineshrx/Dog-vs-Cat-Classification-Transfer-Learning/assets/144202549/45605507-0730-407e-a6f5-7d34f7be2b75)
+![op2](https://github.com/dineshrx/Dog-vs-Cat-Classification-Transfer-Learning/assets/144202549/ab06112c-2a03-4a3e-a955-32c2340ca8d5)
 ## Setup
 ## Installation
 Ensure the Kaggle library is installed to access the dataset:
