@@ -227,7 +227,7 @@ score, acc = model.evaluate(X_test_scaled, Y_test)
 print('Test Loss =', score)
 print('Test Accuracy =', acc)
 
-"""**Predictive System**"""
+"""**Prediction**"""
 
 input_image_path = input('Path of the image to be predicted: ')
 
