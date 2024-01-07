@@ -276,8 +276,8 @@ input_pred_label = np.argmax(input_prediction)
 print(input_pred_label)
 
 if input_pred_label == 0:
-  print('The image represents a Cat')
+  print('This is a Cat')
 
 else:
-  print('The image represents a Dog')
+  print('This is a Dog')
 
